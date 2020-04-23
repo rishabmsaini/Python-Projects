@@ -10,4 +10,4 @@ Jupyter Lab Version 1.1.4
 Processor Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz 2.71 GHz
 Installed Ram 8.00 GB (7.88 GB Usable)
 
-###The detailed description of the project is provided with the code in comments.
+### The detailed description of the project is provided with the code in comments.
