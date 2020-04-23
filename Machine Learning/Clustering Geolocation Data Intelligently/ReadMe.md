@@ -4,10 +4,10 @@ Given taxi rank locations and want to define key clusters of these taxis, we can
 
 ## Note:
 **The code won't display the MAP in any browser or jupyter notebook.**
-**Folium maps rendered fine in Jupyter Lab using Chrome, but not Jupyter Notebook. 
+**Folium maps rendered fine in Jupyter Lab using Chrome, but not Jupyter Notebook.**
 **In this case, a map with 700+ circle markers.**
 
-*This was also brought up in the [folium repo](https://github.com/python-visualization/folium/issues/812 "Issues in FOLIUM Maps")*
+*This was also brought up in the [folium repo](https://github.com/python-visualization/folium/issues/812 "Issues in FOLIUM Maps").*
 
 *This code works fine on:*
 * **Google Chrome:** Version 81.0.4044.113 (Official Build) (64-bit)
