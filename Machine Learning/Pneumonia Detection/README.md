@@ -10,4 +10,4 @@
 
 ### The detailed description of the project and the code is provided with the code in comments.
 
-### You may also find the **DETAILED PROJECT REPORT** attached by clicking [here]("Project Report").
+### You may also find the **DETAILED PROJECT REPORT** attached by clicking [here](https://drive.google.com/open?id=1PwvMe79g6bd37GFxAftiLNVhtszeoZ-N "Project Report").
